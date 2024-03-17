@@ -165,21 +165,13 @@
    'H:\\Полезные проекты\\parser_left\\PARSER Chrome '
    'v2\\build\\async_prarser\\base_library.zip',
    'DATA'),
-  ('certifi\\py.typed',
-   'H:\\Полезные проекты\\parser_left\\PARSER Chrome '
-   'v2\\venv\\Lib\\site-packages\\certifi\\py.typed',
-   'DATA'),
   ('certifi\\cacert.pem',
    'H:\\Полезные проекты\\parser_left\\PARSER Chrome '
    'v2\\venv\\Lib\\site-packages\\certifi\\cacert.pem',
    'DATA'),
-  ('lxml\\isoschematron\\resources\\xsl\\iso-schematron-xslt1\\readme.txt',
+  ('certifi\\py.typed',
    'H:\\Полезные проекты\\parser_left\\PARSER Chrome '
-   'v2\\venv\\Lib\\site-packages\\lxml\\isoschematron\\resources\\xsl\\iso-schematron-xslt1\\readme.txt',
-   'DATA'),
-  ('lxml\\isoschematron\\resources\\xsl\\iso-schematron-xslt1\\iso_abstract_expand.xsl',
-   'H:\\Полезные проекты\\parser_left\\PARSER Chrome '
-   'v2\\venv\\Lib\\site-packages\\lxml\\isoschematron\\resources\\xsl\\iso-schematron-xslt1\\iso_abstract_expand.xsl',
+   'v2\\venv\\Lib\\site-packages\\certifi\\py.typed',
    'DATA'),
   ('lxml\\isoschematron\\resources\\xsl\\XSD2Schtrn.xsl',
    'H:\\Полезные проекты\\parser_left\\PARSER Chrome '
@@ -189,69 +181,77 @@
    'H:\\Полезные проекты\\parser_left\\PARSER Chrome '
    'v2\\venv\\Lib\\site-packages\\lxml\\isoschematron\\resources\\xsl\\iso-schematron-xslt1\\iso_schematron_message.xsl',
    'DATA'),
-  ('lxml\\isoschematron\\resources\\xsl\\iso-schematron-xslt1\\iso_svrl_for_xslt1.xsl',
-   'H:\\Полезные проекты\\parser_left\\PARSER Chrome '
-   'v2\\venv\\Lib\\site-packages\\lxml\\isoschematron\\resources\\xsl\\iso-schematron-xslt1\\iso_svrl_for_xslt1.xsl',
-   'DATA'),
-  ('lxml\\isoschematron\\resources\\xsl\\iso-schematron-xslt1\\iso_dsdl_include.xsl',
-   'H:\\Полезные проекты\\parser_left\\PARSER Chrome '
-   'v2\\venv\\Lib\\site-packages\\lxml\\isoschematron\\resources\\xsl\\iso-schematron-xslt1\\iso_dsdl_include.xsl',
-   'DATA'),
   ('lxml\\isoschematron\\resources\\rng\\iso-schematron.rng',
    'H:\\Полезные проекты\\parser_left\\PARSER Chrome '
    'v2\\venv\\Lib\\site-packages\\lxml\\isoschematron\\resources\\rng\\iso-schematron.rng',
    'DATA'),
-  ('lxml\\isoschematron\\resources\\xsl\\RNG2Schtrn.xsl',
+  ('lxml\\isoschematron\\resources\\xsl\\iso-schematron-xslt1\\readme.txt',
    'H:\\Полезные проекты\\parser_left\\PARSER Chrome '
-   'v2\\venv\\Lib\\site-packages\\lxml\\isoschematron\\resources\\xsl\\RNG2Schtrn.xsl',
+   'v2\\venv\\Lib\\site-packages\\lxml\\isoschematron\\resources\\xsl\\iso-schematron-xslt1\\readme.txt',
    'DATA'),
   ('lxml\\isoschematron\\resources\\xsl\\iso-schematron-xslt1\\iso_schematron_skeleton_for_xslt1.xsl',
    'H:\\Полезные проекты\\parser_left\\PARSER Chrome '
    'v2\\venv\\Lib\\site-packages\\lxml\\isoschematron\\resources\\xsl\\iso-schematron-xslt1\\iso_schematron_skeleton_for_xslt1.xsl',
    'DATA'),
-  ('wheel-0.42.0.dist-info\\LICENSE.txt',
+  ('lxml\\isoschematron\\resources\\xsl\\iso-schematron-xslt1\\iso_dsdl_include.xsl',
    'H:\\Полезные проекты\\parser_left\\PARSER Chrome '
-   'v2\\venv\\Lib\\site-packages\\wheel-0.42.0.dist-info\\LICENSE.txt',
+   'v2\\venv\\Lib\\site-packages\\lxml\\isoschematron\\resources\\xsl\\iso-schematron-xslt1\\iso_dsdl_include.xsl',
    'DATA'),
-  ('attrs-23.2.0.dist-info\\WHEEL',
+  ('lxml\\isoschematron\\resources\\xsl\\RNG2Schtrn.xsl',
    'H:\\Полезные проекты\\parser_left\\PARSER Chrome '
-   'v2\\venv\\Lib\\site-packages\\attrs-23.2.0.dist-info\\WHEEL',
+   'v2\\venv\\Lib\\site-packages\\lxml\\isoschematron\\resources\\xsl\\RNG2Schtrn.xsl',
    'DATA'),
-  ('wheel-0.42.0.dist-info\\METADATA',
+  ('lxml\\isoschematron\\resources\\xsl\\iso-schematron-xslt1\\iso_abstract_expand.xsl',
    'H:\\Полезные проекты\\parser_left\\PARSER Chrome '
-   'v2\\venv\\Lib\\site-packages\\wheel-0.42.0.dist-info\\METADATA',
+   'v2\\venv\\Lib\\site-packages\\lxml\\isoschematron\\resources\\xsl\\iso-schematron-xslt1\\iso_abstract_expand.xsl',
    'DATA'),
-  ('attrs-23.2.0.dist-info\\licenses\\LICENSE',
+  ('lxml\\isoschematron\\resources\\xsl\\iso-schematron-xslt1\\iso_svrl_for_xslt1.xsl',
    'H:\\Полезные проекты\\parser_left\\PARSER Chrome '
-   'v2\\venv\\Lib\\site-packages\\attrs-23.2.0.dist-info\\licenses\\LICENSE',
-   'DATA'),
-  ('wheel-0.42.0.dist-info\\entry_points.txt',
-   'H:\\Полезные проекты\\parser_left\\PARSER Chrome '
-   'v2\\venv\\Lib\\site-packages\\wheel-0.42.0.dist-info\\entry_points.txt',
+   'v2\\venv\\Lib\\site-packages\\lxml\\isoschematron\\resources\\xsl\\iso-schematron-xslt1\\iso_svrl_for_xslt1.xsl',
    'DATA'),
   ('attrs-23.2.0.dist-info\\RECORD',
    'H:\\Полезные проекты\\parser_left\\PARSER Chrome '
    'v2\\venv\\Lib\\site-packages\\attrs-23.2.0.dist-info\\RECORD',
    'DATA'),
-  ('wheel-0.42.0.dist-info\\INSTALLER',
+  ('attrs-23.2.0.dist-info\\METADATA',
    'H:\\Полезные проекты\\parser_left\\PARSER Chrome '
-   'v2\\venv\\Lib\\site-packages\\wheel-0.42.0.dist-info\\INSTALLER',
+   'v2\\venv\\Lib\\site-packages\\attrs-23.2.0.dist-info\\METADATA',
+   'DATA'),
+  ('attrs-23.2.0.dist-info\\WHEEL',
+   'H:\\Полезные проекты\\parser_left\\PARSER Chrome '
+   'v2\\venv\\Lib\\site-packages\\attrs-23.2.0.dist-info\\WHEEL',
    'DATA'),
   ('wheel-0.42.0.dist-info\\RECORD',
    'H:\\Полезные проекты\\parser_left\\PARSER Chrome '
    'v2\\venv\\Lib\\site-packages\\wheel-0.42.0.dist-info\\RECORD',
    'DATA'),
+  ('attrs-23.2.0.dist-info\\licenses\\LICENSE',
+   'H:\\Полезные проекты\\parser_left\\PARSER Chrome '
+   'v2\\venv\\Lib\\site-packages\\attrs-23.2.0.dist-info\\licenses\\LICENSE',
+   'DATA'),
+  ('wheel-0.42.0.dist-info\\METADATA',
+   'H:\\Полезные проекты\\parser_left\\PARSER Chrome '
+   'v2\\venv\\Lib\\site-packages\\wheel-0.42.0.dist-info\\METADATA',
+   'DATA'),
   ('attrs-23.2.0.dist-info\\INSTALLER',
    'H:\\Полезные проекты\\parser_left\\PARSER Chrome '
    'v2\\venv\\Lib\\site-packages\\attrs-23.2.0.dist-info\\INSTALLER',
    'DATA'),
-  ('attrs-23.2.0.dist-info\\METADATA',
+  ('wheel-0.42.0.dist-info\\entry_points.txt',
    'H:\\Полезные проекты\\parser_left\\PARSER Chrome '
-   'v2\\venv\\Lib\\site-packages\\attrs-23.2.0.dist-info\\METADATA',
+   'v2\\venv\\Lib\\site-packages\\wheel-0.42.0.dist-info\\entry_points.txt',
    'DATA'),
   ('wheel-0.42.0.dist-info\\WHEEL',
    'H:\\Полезные проекты\\parser_left\\PARSER Chrome '
    'v2\\venv\\Lib\\site-packages\\wheel-0.42.0.dist-info\\WHEEL',
+   'DATA'),
+  ('wheel-0.42.0.dist-info\\LICENSE.txt',
+   'H:\\Полезные проекты\\parser_left\\PARSER Chrome '
+   'v2\\venv\\Lib\\site-packages\\wheel-0.42.0.dist-info\\LICENSE.txt',
+   'DATA'),
+  ('wheel-0.42.0.dist-info\\INSTALLER',
+   'H:\\Полезные проекты\\parser_left\\PARSER Chrome '
+   'v2\\venv\\Lib\\site-packages\\wheel-0.42.0.dist-info\\INSTALLER',
    'DATA')],
  'python311.dll',
  False,

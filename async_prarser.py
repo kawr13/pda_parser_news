@@ -34,7 +34,6 @@ async def get_soup_data(data: str):
     text = [text.text for text in texts]
     images = soup.find_all('img')
     image = [image.get('srcset') if image.get('srcset') else image.get('src') for image in images]
-    ic(image)
     return {'title': title, 'text': text, 'image': image}
 
 
@@ -61,10 +60,14 @@ async def main(urls: list):
     dict_ = await asyncio.gather(*datas)
     for data in dict_:
         dict_list.append(data)
-    await dict_to_excel(dict_list, 'test.xlsx')
+    file_name = input('Input file name: ')
+    await dict_to_excel(dict_list, file_name)
 
 
 if __name__ == '__main__':
+    ic.configureOutput(includeContext=True)
+    ic.enable()
+    print('Input number of pages')
     num = input('Input number: ')
     url = 'https://4pda.to/page/{num}/'
     urls = [url.format(num=i) for i in range(1, int(num) + 1)]
